@@ -38,7 +38,7 @@ Criar uma tabela chamada **cursos** com os seguintes campos:
 ---
 
 ### 4. Consultas
-- Realizar uma consulta que exiba os nomes de todos os alunos cujo `nome_curso` começa com a letra **B**.  
+- Realizar uma consulta que exiba os nomes de todos os cursos cujo `nome_curso` começa com a letra **B**.  
 - Criar uma **VIEW** chamada `relatorio` que execute essa consulta.  
 
 ---
@@ -58,11 +58,11 @@ Os alunos deverão enviar:
 
 ## Resultados Esperados
 - Banco de dados **dev-seunome** corretamente criado e acessível pelo Render e DBeaver.  
-- Tabela **curso** criada conforme as especificações, respeitando o padrão de nomenclatura.  
+- Tabela **cursos** criada conforme as especificações, respeitando o padrão de nomenclatura.  
 - Inserção em massa de **155 registros** concluída com sucesso.  
 - Atualização correta do campo `campus_curso` para registros com `id_curso > 100`.  
 - Exclusão de registros com `id_curso > 150` realizada corretamente.  
-- Consulta que retorna os funcionario cujo nome começa com **B** implementada com sucesso.  
+- Consulta que retorna os cursos cujo nome começa com **B** implementada com sucesso.  
 - **View relatorio** criada corretamente a partir da consulta.  
 - Usuário **felnascimento** criado com senha definida e permissões de execução atribuídas à view.  
 - Scripts, host e nome do banco entregues dentro do prazo estabelecido.  
