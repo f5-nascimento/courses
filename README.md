@@ -16,7 +16,7 @@ As etapas do desafio incluem:
 ---
 
 ### 1. Criação do Banco de Dados
-- Criar um banco chamado **dev-seunome**, onde `seunome` é substituído pelo nome do aluno.
+- Criar um banco chamado **tools-seunome**, onde `seunome` é substituído pelo nome do aluno.
 - Conectar o banco ao **DBeaver** para gerenciar e executar os scripts.
 
 ---
@@ -57,7 +57,7 @@ Os alunos deverão enviar:
 ---
 
 ## Resultados Esperados
-- Banco de dados **dev-seunome** corretamente criado e acessível pelo Render e DBeaver.  
+- Banco de dados **tools-seunome** corretamente criado e acessível pelo Render e DBeaver.  
 - Tabela **cursos** criada conforme as especificações, respeitando o padrão de nomenclatura.  
 - Inserção em massa de **155 registros** concluída com sucesso.  
 - Atualização correta do campo `campus_curso` para registros com `id_curso > 100`.  
